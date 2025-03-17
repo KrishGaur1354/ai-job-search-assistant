@@ -9,6 +9,8 @@
 
 The AI-Powered Job Search Assistant is an intelligent tool that automates your job search process using advanced AI capabilities. It navigates career websites, analyzes job postings, compares them with your resume, and identifies the best matches for your skills and experience.
 
+![Demo](./demo.gif)
+
 ![Job Search Demo](./demo.mp4)
 
 ## ✨ Features
