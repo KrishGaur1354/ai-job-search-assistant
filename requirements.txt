@@ -1,0 +1,19 @@
+# c:\Users\krish\OneDrive\Documents\GitHub\diffml\requirements.txt
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+keras
+torch
+jupyter
+notebook
+certifi==2023.7.22
+chardet==4.0.0
+colorama==0.4.4
+httpx==0.13.3
+idna==2.10
+opencv-python==4.8.0.0
+redis>=3.5.3
+requests==2.26.0
