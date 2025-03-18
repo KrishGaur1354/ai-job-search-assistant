@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-Latest-green)](https://www.langchain.com/)
 [![BrowserUse](https://img.shields.io/badge/BrowserUse-Latest-orange)](https://docs.browser-use.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![License](https://img.shields.io/badge/BSD-3-Clause-License)](LICENSE)
 
 ## 🚀 Overview
 
