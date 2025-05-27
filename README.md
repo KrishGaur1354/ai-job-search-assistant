@@ -4,7 +4,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-Latest-green)](https://www.langchain.com/)
 [![BrowserUse](https://img.shields.io/badge/BrowserUse-Latest-orange)](https://docs.browser-use.com/)
 
-## 🚀 Overview
+## Overview
 
 The AI-Powered Job Search Assistant is an intelligent tool that automates your job search process using advanced AI capabilities. It navigates career websites, analyzes job postings, compares them with your resume, and identifies the best matches for your skills and experience.
 
@@ -12,7 +12,7 @@ The AI-Powered Job Search Assistant is an intelligent tool that automates your j
 
 ![Job Search Demo](./demo.mp4)
 
-## ✨ Features
+## Features
 
 - **Automated Job Exploration**: Searches across top tech companies for relevant positions
 - **AI-Powered Matching**: Analyzes job descriptions and compares with your CV using advanced language models
@@ -22,29 +22,30 @@ The AI-Powered Job Search Assistant is an intelligent tool that automates your j
 - **Browser Automation**: Handles website navigation and data extraction
 - **Resume Upload Support**: Automatically uploads your CV to job applications
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**: Core programming language
 - **LangChain**: Framework for LLM applications
 - **BrowserUse**: Browser automation library
 - **LLM Providers**:
   - OpenAI GPT-4o
-  - Azure OpenAI
   - HuggingFace (Mixtral-8x7B)
-  - Google Gemini
+  - Gemini
+  - Claude Sonnet 3.5 (Testing Phase)
+  - Qwen 2.5 (Testing through OpenRouter API Service)
 - **PyPDF2**: PDF processing for resume analysis
 - **Asyncio**: Asynchronous operations for concurrent job searches
 - **Pydantic**: Data validation and settings management
 - **CSV/JSON**: Data storage and configuration
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.8+
 - Microsoft Edge browser
 - API key for at least one LLM provider (OpenAI, Azure, HuggingFace, or Google Gemini)
 - A PDF resume/CV
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 
@@ -78,7 +79,7 @@ The application will:
 6. Automatically search and analyze job postings
 7. Save matching jobs to a CSV file with fit scores
 
-## 📊 How It Works
+## How It Works
 
 1. **CV Analysis**: The system reads and processes your PDF resume
 2. **Company Selection**: Choose from top tech companies or specify your targets
@@ -88,7 +89,7 @@ The application will:
 6. **Fit Scoring**: Calculates a 0.0-1.0 score for each position
 7. **Data Storage**: Saves promising opportunities to a CSV file
 
-## 🔄 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
